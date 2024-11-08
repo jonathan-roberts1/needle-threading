@@ -1,6 +1,6 @@
 # Needle Threading: Can LLMs Follow Threads through Near-Million-Scale Haystacks?
 
-### [Project Page](https://needle-threading.github.io) | [Paper](https://arxiv.org/abs/) | [Data](https://huggingface.co/datasets/jonathan-roberts1/needle-threading) | [Code](https://github.com/jonathan-roberts1/needle-threading/)
+### [Project Page](https://needle-threading.github.io) | [Paper](https://arxiv.org/abs/2411.05000) | [Data](https://huggingface.co/datasets/jonathan-roberts1/needle-threading) | [Code](https://github.com/jonathan-roberts1/needle-threading/)
 
 ### Jonathan Roberts, Kai Han, Samuel Albanie
 
@@ -175,7 +175,16 @@ accuracy = output_df["Correct?"].mean()
 print(f"{model_name} Single_Needle: {100 * accuracy:.2f}%")
 ```
 
-
+## Citation
+If you found our work useful in your own research, please consider citing our paper:
+```latex
+@article{roberts2024needle,
+  title={Needle Threading: Can LLMs Follow Threads through Near-Million-Scale Haystacks?},
+  author={Roberts, Jonathan and Han, Kai and Albanie, Samuel},
+  journal={arXiv preprint arXiv:2411.05000},
+  year={2024}
+}
+```
 
 
 
