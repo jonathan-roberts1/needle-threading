@@ -93,8 +93,8 @@ the specified key in the JSON object. Key: "247a83...-cda8-056c3d15eef7"\n Corre
 Directly downloading image files and question data from the needle-threading HuggingFace repository into the ```data``` directory in this repo.
 ```
 cd data
-wget https://huggingface.co/datasets/jonathan-roberts1/needle-threading/resolve/main/data_json.zip
-unzip data_json.zip && rm data_json.zip
+wget "https://huggingface.co/datasets/jonathan-roberts1/needle-threading/resolve/main/json_data.zip?download=true" -O json_data.zip
+unzip json_data.zip && rm json_data.zip
 ```
 #### Expected structure
 ```
