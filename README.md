@@ -143,9 +143,6 @@ config = {
 # Iterate over questions
 for idx, item in tqdm(enumerate(dataset)):
 
-    if idx == 10:
-        break
-
     question = item['question']
     haystack = item['haystack']
     # see our paper the specific prompt structure we use
