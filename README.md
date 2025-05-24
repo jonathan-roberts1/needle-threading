@@ -2,7 +2,7 @@
 
 **ICLR 2025**
 
-### [Project Page](https://needle-threading.github.io) | [Paper](https://arxiv.org/abs/2411.05000) | [Data](https://huggingface.co/datasets/jonathan-roberts1/needle-threading) | [Code](https://github.com/jonathan-roberts1/needle-threading/)
+### [Project Page](https://needle-threading.github.io) | [Paper](https://arxiv.org/abs/2411.05000) | [Data](https://huggingface.co/datasets/jonathan-roberts1/needle-threading) | [Code](https://github.com/jonathan-roberts1/needle-threading/) | [ICLR](https://iclr.cc/virtual/2025/poster/27857)
 
 ### Jonathan Roberts, Kai Han, Samuel Albanie
 
