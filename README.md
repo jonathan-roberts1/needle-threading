@@ -19,7 +19,9 @@ Strikingly, we find that many models are remarkably thread-safe: capable of simu
   - [Evaluation](#evaluation)
 
 ## News
-🎉 **[08/11/24]** Initial release!
+- 🎉 **[24/04/25]** Presented at ICLR 2025 (Singapore)!
+- 🎉 **[22/01/25]** Accepted at ICLR 2025!
+- 🎉 **[08/11/24]** Initial release!
 
 ## Key Insights
 - We find significant differences in the tokenization of long-context LLMs, especially when processing abstract text (numbers or UUIDs)
